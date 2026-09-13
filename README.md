@@ -1,5 +1,8 @@
-# XR4DRAMA-Stress-dataset-instructions
-This repo contains instructions to access the dataset collected in the context of the XR4DRAMA project. The dataset contains physiological signal and speech recordings from 5 volunteers who were subjects in a stress induction experimental protocol.
+# XR4DRAMA-Stress-dataset-Access-instructions
+This repo contains instructions to access the dataset collected in the context of the XR4DRAMA project. The dataset contains physiological signal and speech recordings from 5 volunteers who were subjects in a stress induction experimental protocol. 
+
+The dataset is hosted in a private, controlled-access GitHub repository: https://github.com/VasilisXeft/XR4DRAMA-Dataset-Stress
+Access to this repository is granted only after approval of an access request and acceptance of the Dataset Terms of Use.
 
 During the whole experiment the phyisiological signals and speech of the participants were recorded. The physiological signals include Electrocardiography (ECG), Respiratory (RSP) and Inertial Measurement Unit (IMU) recordings received from sensors equipped to a smart vest. After each task in the stress induction protocol the participants were asked to report their stress level as a value in the range of 1 to 100. More details about the data acquisition methods and the experimental protocol can be found in the corresponding paper, Stress detection based on physiological sensor and audio signals, and a late fusion framework: An experimental study and public dataset.
 
